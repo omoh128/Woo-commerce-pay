@@ -24,7 +24,7 @@ function my_woo_payment_gateway_add_to_gateways( $gateways ) {
     return $gateways;
 }
  
-//register_activation_hook( __FILE__, 'my_woo_payment_gateway_activate' );
+register_activation_hook( __FILE__, 'my_woo_payment_gateway_activate' );
 //register_deactivation_hook( __FILE__, 'my_woo_payment_gateway_deactivate' );
  
 

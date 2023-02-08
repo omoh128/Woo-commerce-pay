@@ -8,4 +8,3 @@ function my_woo_payment_gateway_activate() {
 }
 
 
-?>

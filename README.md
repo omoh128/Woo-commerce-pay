@@ -1,2 +1,2 @@
-# Woocommerce gatway payment using usin api 
+# Woocommerce gatway payment using using api 
 # 
